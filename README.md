@@ -217,8 +217,7 @@
 
     <script>
         // CONFIGURACIÓN: Reemplaza esta URL con la de tu Google Apps Script
-        const SCRIPT_URL = '
-https://script.google.com/macros/s/AKfycbyC-lh7DDPUCf8WvVjnKlv7xReNbocQCC6IkOHbuIDgCjpm_4Ys0H3JCao_oyC2A1qbAw/exec';
+        const SCRIPT_URL = 'https://script.google.com/macros/library/d/1egPSh8ZHmWU5jw-UPAdDJh-y5yfM24gRfTG7RsC_LO9VOmrA73-Yd1fI/1';
 
         const form = document.getElementById('feedbackForm');
         const comentario = document.getElementById('comentario');
